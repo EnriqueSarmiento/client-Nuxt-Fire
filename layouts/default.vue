@@ -1,15 +1,16 @@
 <template>
   <div>
-    my items page
+    <Nav/>
+    <Nuxt/>
   </div>
 </template>
 
 <script>
   export default {
-    layout: 'no-nav'
+
   }
 </script>
 
-<style scoped>
+<style  scoped>
 
 </style>
