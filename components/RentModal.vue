@@ -7,7 +7,12 @@
         <div class="text-container">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus molestias tempora aut fugiat voluptatum, placeat eaque enim nostrum sed consectetur temporibus sapiente quisquam fugit aspernatur, vitae ex debitis quia est?</p>
         </div>
-
+          <vc-date-picker
+            :value="null"
+            color="indigo"
+            is-dark
+            is-orange
+          ></vc-date-picker>
       </div>
       <b-button id="show-btn" variant="outline-danger" @click="showModal">Order</b-button>
     </b-modal>
