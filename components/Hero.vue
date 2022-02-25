@@ -2,7 +2,7 @@
   <div class="Hero container flex flex-row">
     <div class="text-container">
       <h1 class="header">Find your Fire Extinguisher</h1>
-      <p class="snippet">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed praesentium a eos impedit nobis soluta atque ipsum, tenetur neque vel recusandae explicabo, rem voluptatum cum repellat accusantium distinctio, quos earum.</p>
+      <p class="snippet"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed praesentium a eos impedit nobis soluta atque ipsum, tenetur neque vel recusandae explicabo, rem voluptatum cum repellat accusantium distinctio, quos earum.</p>
       <button class="button btn">Star Looking</button>
     </div>
     <img class="image" src="../store/svg/fire-extinguisher.svg" alt="fire icon">
